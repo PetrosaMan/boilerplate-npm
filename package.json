@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "D W Todd",
 	"description": "How to use package.json: completed challenges",
+	"keywords": ["freecodecamp", "package-jason", "back end development", "git/github"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
