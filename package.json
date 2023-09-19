@@ -1,7 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "D W Todd",
-	"description": "How to use package.json completed challenges",
+	"description": "How to use package.json:  completed challenges",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
