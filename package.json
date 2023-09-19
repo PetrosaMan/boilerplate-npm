@@ -3,6 +3,7 @@
 	"author": "D W Todd",
 	"description": "How to use package.json: completed challenges",
 	"keywords": ["freecodecamp", "package-jason", "back end development", "git/github"],
+	"license": "Insert applicable license, copyright details etc here.",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
